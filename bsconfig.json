@@ -1,0 +1,19 @@
+{
+  "name": "rescript-sortable-list",
+  "version": "1.0.0",
+  "sources": {
+    "dir" : "src"
+  },
+  "bs-dependencies": [
+    "@rescript/react"
+  ],
+  "reason": {
+    "react-jsx": 3
+  },
+  "refmt": 3,
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js"
+}

@@ -1,0 +1,9 @@
+node_modules/
+lib/
+dist/
+*.bs.js
+.vercel
+.merlin
+.bsb.lock
+.cache
+.DS_Store

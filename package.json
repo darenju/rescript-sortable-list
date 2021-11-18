@@ -1,0 +1,24 @@
+{
+  "name": "rescript-sortable-list",
+  "version": "1.0.0",
+  "description": "A sortable vertical list ReScript React component that works on desktop and mobile.",
+  "main": "src/SortableList.res",
+  "files": [
+    "src",
+    "bsconfig.json"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "rescript": "^9.1.4",
+    "@rescript/react": "^0.10.3"
+  },
+  "peerDependencies": {
+    "@rescript/react": "^0.10.3"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3"
+  }
+}
