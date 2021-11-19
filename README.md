@@ -86,3 +86,12 @@ let myItems = [
   onSort=(newItems => Js.log(newItems))
 />
 ```
+
+## API
+
+### Properties
+
+| Property name | Type | Description |
+|---------------|------|-------------|
+| `items`       | `array<Item.t>` | List of items to display in the list. |
+| `onSort`      | `array<Item.t> => unit` | Function to call when the list has been sorted. |
